@@ -1,4 +1,4 @@
 # WARNING
 DO NOT USE THE CODE FOR YOUR OWN BOT, I HAVE REMOVED A FEW FUNCTIONS TO MAKE IT NOT SO EASY TO EXECUTE
 
-click on main.py to see the code
+click on main.py file to see the code
